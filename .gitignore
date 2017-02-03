@@ -1,0 +1,12 @@
+# distutils/setuptools files
+build
+dist
+cars.egg-info
+
+*.pyc
+.idea
+.ipynb_checkpoints
+.coverage
+env*
+.cache/
+htmlcov/

@@ -30,4 +30,4 @@ Analysing
 ---------
 
 You can run analysis on the data by running `jupyter notebook` and opening the
-`Irish Car Market` notebook
+`Irish Car Market` notebook.

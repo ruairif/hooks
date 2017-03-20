@@ -5,11 +5,11 @@ Irish Car Market Analysis
 Installation
 ------------
 
-To install all required libraries for crawling, run:
+To install all required libraries for crawling:
 
     pip install -r requirements-crawl.txt
 
-To install all required libraries for analysis, run:
+To install all required libraries for analysis:
 
     pip install -r requirements-analysis.txt
 
@@ -30,4 +30,4 @@ Analysing
 ---------
 
 You can run analysis on the data by running `jupyter notebook` and opening the
-`Irish Car Market` notebook.
+`Irish Car Market` notebook
